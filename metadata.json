@@ -1,0 +1,8 @@
+{
+  "name": "StaffSync - Modern Human Resource Management Solution",
+  "description": "Full-stack MERN human resource management solution featuring multi-role portals for HR personnel, managers, and employees with leave approvals, attendance tracking, employee directory, announcements, and training programs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
